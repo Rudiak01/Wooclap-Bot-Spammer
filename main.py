@@ -27,6 +27,7 @@ def signal_handler(signal, frame):
 
 def get_room_code():
     global url
+    print("Getting url")
     room_code = " "
     while url.startswith('https://app.wooclap.com/public?missingSlug=') or room_code == " ":
         if url.startswith('https://app.wooclap.com/public?missingSlug=') or room_code == "":
@@ -128,7 +129,7 @@ def spam_user(args):
         
 def menu():
     global num_browsers, option, emoji_option
-    print("=== Wooclap Spammer | by Rudiak ===")
+    print("=== Wooclap Spammer | by Rudiak01 ===")
     while 0>=option or option>2:
         print("Choisi une option: ")
         print("\t1. Spam Emoji / Questions")
