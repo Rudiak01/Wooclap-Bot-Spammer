@@ -1,3 +1,7 @@
+# WARNING
+
+Wooclap changes regularly css classes which can cause the bot to stop working, open an issue so i can fix the bot
+
 # Wooclap-Bot-Spammer
 
 Wooclap spamming tool allows you to spam a wooclap poll with a large number of users or emojis and spam answers.
