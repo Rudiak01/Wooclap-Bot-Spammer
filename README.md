@@ -27,7 +27,7 @@ An automated tool for interacting with Wooclap sessions using Selenium WebDriver
    - Download and install [Firefox Browser](https://www.mozilla.org/firefox/)
 
 3. **Run the program**
-   - Run `main.exe` !
+   - Run `wooclap-bot-spammer.exe` !
 
 ### Running from Source (Advanced Users)
 
