@@ -36,7 +36,7 @@ If you want to run from Python source code:
 1. **Clone the repository**
 
 ```bash
-   git clone https://github.com/yourusername/wooclap-bot-spammer.git
+   git clone https://github.com/Rudiak01/wooclap-bot-spammer.git
    cd wooclap-bot-spammer
 ```
 
